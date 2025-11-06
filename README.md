@@ -5,7 +5,7 @@
 [![Python](https://img.shields.io/badge/Python-3.11-blue.svg)]()
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.6-brightgreen.svg)]()
 [![nnU--Net v2](https://img.shields.io/badge/nnU--Net-v2-informational.svg)]()
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]()
+
 
 ---
 

@@ -1,4 +1,4 @@
-# wift-nnU-Net: A Unified and Accelerated Framework for Pancreatic Lesion Segmentation and Classification
+# Swift-nnU-Net: A Unified and Accelerated Framework for Pancreatic Lesion Segmentation and Classification
 
 > 3D CT pipeline that segments the pancreas and lesions, and predicts lesion subtype with a shared encoder and task-specific heads. Built on **nnU-Net v2** with a 3D ResEncUNet-M backbone and a lightweight classification branch.
 
@@ -94,12 +94,4 @@ subprocess.check_call(shlex.split(cmd), env=os.environ.copy())
 
 ## Citation
 - Isensee et al. nnU-Net: a self configuring method for biomedical image segmentation. Nat Methods, 2021.
-- Maier-Hein et al. Metrics Reloaded: recommendations for image analysis validation. Nat Methods, 2024.
-- Cao et al. Large-scale pancreatic cancer detection via non-contrast CT and deep learning. Nat Med, 2023.
 
-## License
-MIT
-
----
-
-_Last updated: 2025-11-06_

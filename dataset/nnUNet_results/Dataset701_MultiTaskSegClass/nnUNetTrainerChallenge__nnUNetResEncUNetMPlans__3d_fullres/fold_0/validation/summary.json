@@ -1,0 +1,972 @@
+{
+    "foreground_mean": {
+        "Dice": 0.7897526639500835,
+        "FN": 4991.152777777777,
+        "FP": 4792.388888888889,
+        "IoU": 0.7030166612082194,
+        "TN": 1696754.736111111,
+        "TP": 45148.36111111111,
+        "n_pred": 49940.75,
+        "n_ref": 50139.51388888889
+    },
+    "mean": {
+        "1": {
+            "Dice": 0.912292651277046,
+            "FN": 6087.138888888889,
+            "FP": 7329.833333333333,
+            "IoU": 0.8425525928399775,
+            "TN": 1661292.5277777778,
+            "TP": 76977.13888888889,
+            "n_pred": 84306.97222222222,
+            "n_ref": 83064.27777777778
+        },
+        "2": {
+            "Dice": 0.667212676623121,
+            "FN": 3895.1666666666665,
+            "FP": 2254.9444444444443,
+            "IoU": 0.5634807295764612,
+            "TN": 1732216.9444444445,
+            "TP": 13319.583333333334,
+            "n_pred": 15574.527777777777,
+            "n_ref": 17214.75
+        }
+    },
+    "metric_per_case": [
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.887256534406433,
+                    "FN": 41466,
+                    "FP": 23197,
+                    "IoU": 0.7973594649986525,
+                    "TN": 4411997,
+                    "TP": 254439,
+                    "n_pred": 277636,
+                    "n_ref": 295905
+                },
+                "2": {
+                    "Dice": 0.3425539232545571,
+                    "FN": 12938,
+                    "FP": 443,
+                    "IoU": 0.2066757573960989,
+                    "TN": 4714232,
+                    "TP": 3486,
+                    "n_pred": 3929,
+                    "n_ref": 16424
+                }
+            },
+            "prediction_file": "/local/data0/home/naumanb/Codes/13b_nnUnet/dataset/nnUNet_results/Dataset701_MultiTaskSegClass/nnUNetTrainerChallenge__nnUNetResEncUNetMPlans__3d_fullres/fold_0/validation/quiz_0_168.nii.gz",
+            "reference_file": "/local/data0/home/naumanb/Codes/13b_nnUnet/dataset/nnUNet_preprocessed/Dataset701_MultiTaskSegClass/gt_segmentations/quiz_0_168.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9381988841797764,
+                    "FN": 3157,
+                    "FP": 4586,
+                    "IoU": 0.883591917734079,
+                    "TN": 2386380,
+                    "TP": 58773,
+                    "n_pred": 63359,
+                    "n_ref": 61930
+                },
+                "2": {
+                    "Dice": 0.6428308145963878,
+                    "FN": 1916,
+                    "FP": 22,
+                    "IoU": 0.4736556219445953,
+                    "TN": 2449214,
+                    "TP": 1744,
+                    "n_pred": 1766,
+                    "n_ref": 3660
+                }
+            },
+            "prediction_file": "/local/data0/home/naumanb/Codes/13b_nnUnet/dataset/nnUNet_results/Dataset701_MultiTaskSegClass/nnUNetTrainerChallenge__nnUNetResEncUNetMPlans__3d_fullres/fold_0/validation/quiz_0_171.nii.gz",
+            "reference_file": "/local/data0/home/naumanb/Codes/13b_nnUnet/dataset/nnUNet_preprocessed/Dataset701_MultiTaskSegClass/gt_segmentations/quiz_0_171.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9320699868363317,
+                    "FN": 3243,
+                    "FP": 1711,
+                    "IoU": 0.8727819008243239,
+                    "TN": 526939,
+                    "TP": 33987,
+                    "n_pred": 35698,
+                    "n_ref": 37230
+                },
+                "2": {
+                    "Dice": 0.5734505683036671,
+                    "FN": 1505,
+                    "FP": 484,
+                    "IoU": 0.40198436560432954,
+                    "TN": 562554,
+                    "TP": 1337,
+                    "n_pred": 1821,
+                    "n_ref": 2842
+                }
+            },
+            "prediction_file": "/local/data0/home/naumanb/Codes/13b_nnUnet/dataset/nnUNet_results/Dataset701_MultiTaskSegClass/nnUNetTrainerChallenge__nnUNetResEncUNetMPlans__3d_fullres/fold_0/validation/quiz_0_174.nii.gz",
+            "reference_file": "/local/data0/home/naumanb/Codes/13b_nnUnet/dataset/nnUNet_preprocessed/Dataset701_MultiTaskSegClass/gt_segmentations/quiz_0_174.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.925426165258547,
+                    "FN": 1155,
+                    "FP": 4344,
+                    "IoU": 0.8612029581766324,
+                    "TN": 946831,
+                    "TP": 34120,
+                    "n_pred": 38464,
+                    "n_ref": 35275
+                },
+                "2": {
+                    "Dice": 0.9315542559983715,
+                    "FN": 5443,
+                    "FP": 1954,
+                    "IoU": 0.8718779228877265,
+                    "TN": 928716,
+                    "TP": 50337,
+                    "n_pred": 52291,
+                    "n_ref": 55780
+                }
+            },
+            "prediction_file": "/local/data0/home/naumanb/Codes/13b_nnUnet/dataset/nnUNet_results/Dataset701_MultiTaskSegClass/nnUNetTrainerChallenge__nnUNetResEncUNetMPlans__3d_fullres/fold_0/validation/quiz_0_184.nii.gz",
+            "reference_file": "/local/data0/home/naumanb/Codes/13b_nnUnet/dataset/nnUNet_preprocessed/Dataset701_MultiTaskSegClass/gt_segmentations/quiz_0_184.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9524425044495043,
+                    "FN": 12103,
+                    "FP": 2246,
+                    "IoU": 0.909203082880899,
+                    "TN": 3005308,
+                    "TP": 143685,
+                    "n_pred": 145931,
+                    "n_ref": 155788
+                },
+                "2": {
+                    "Dice": 0.7076074332171893,
+                    "FN": 7,
+                    "FP": 2007,
+                    "IoU": 0.5475174118175691,
+                    "TN": 3158891,
+                    "TP": 2437,
+                    "n_pred": 4444,
+                    "n_ref": 2444
+                }
+            },
+            "prediction_file": "/local/data0/home/naumanb/Codes/13b_nnUnet/dataset/nnUNet_results/Dataset701_MultiTaskSegClass/nnUNetTrainerChallenge__nnUNetResEncUNetMPlans__3d_fullres/fold_0/validation/quiz_0_187.nii.gz",
+            "reference_file": "/local/data0/home/naumanb/Codes/13b_nnUnet/dataset/nnUNet_preprocessed/Dataset701_MultiTaskSegClass/gt_segmentations/quiz_0_187.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9090032480714576,
+                    "FN": 5475,
+                    "FP": 5283,
+                    "IoU": 0.8331860259571103,
+                    "TN": 1027236,
+                    "TP": 53733,
+                    "n_pred": 59016,
+                    "n_ref": 59208
+                },
+                "2": {
+                    "Dice": 0.9102714176460489,
+                    "FN": 5555,
+                    "FP": 194,
+                    "IoU": 0.8353193927241478,
+                    "TN": 1056817,
+                    "TP": 29161,
+                    "n_pred": 29355,
+                    "n_ref": 34716
+                }
+            },
+            "prediction_file": "/local/data0/home/naumanb/Codes/13b_nnUnet/dataset/nnUNet_results/Dataset701_MultiTaskSegClass/nnUNetTrainerChallenge__nnUNetResEncUNetMPlans__3d_fullres/fold_0/validation/quiz_0_189.nii.gz",
+            "reference_file": "/local/data0/home/naumanb/Codes/13b_nnUnet/dataset/nnUNet_preprocessed/Dataset701_MultiTaskSegClass/gt_segmentations/quiz_0_189.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9436375652110356,
+                    "FN": 11354,
+                    "FP": 7153,
+                    "IoU": 0.8932895890031828,
+                    "TN": 2207368,
+                    "TP": 154925,
+                    "n_pred": 162078,
+                    "n_ref": 166279
+                },
+                "2": {
+                    "Dice": 0.6317515256398579,
+                    "FN": 26,
+                    "FP": 4017,
+                    "IoU": 0.4617228065503928,
+                    "TN": 2373289,
+                    "TP": 3468,
+                    "n_pred": 7485,
+                    "n_ref": 3494
+                }
+            },
+            "prediction_file": "/local/data0/home/naumanb/Codes/13b_nnUnet/dataset/nnUNet_results/Dataset701_MultiTaskSegClass/nnUNetTrainerChallenge__nnUNetResEncUNetMPlans__3d_fullres/fold_0/validation/quiz_0_244.nii.gz",
+            "reference_file": "/local/data0/home/naumanb/Codes/13b_nnUnet/dataset/nnUNet_preprocessed/Dataset701_MultiTaskSegClass/gt_segmentations/quiz_0_244.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9428126739299247,
+                    "FN": 14062,
+                    "FP": 3097,
+                    "IoU": 0.8918123124259161,
+                    "TN": 2162253,
+                    "TP": 141445,
+                    "n_pred": 144542,
+                    "n_ref": 155507
+                },
+                "2": {
+                    "Dice": 0.42187997875730215,
+                    "FN": 0,
+                    "FP": 5443,
+                    "IoU": 0.26733073091937004,
+                    "TN": 2313428,
+                    "TP": 1986,
+                    "n_pred": 7429,
+                    "n_ref": 1986
+                }
+            },
+            "prediction_file": "/local/data0/home/naumanb/Codes/13b_nnUnet/dataset/nnUNet_results/Dataset701_MultiTaskSegClass/nnUNetTrainerChallenge__nnUNetResEncUNetMPlans__3d_fullres/fold_0/validation/quiz_0_253.nii.gz",
+            "reference_file": "/local/data0/home/naumanb/Codes/13b_nnUnet/dataset/nnUNet_preprocessed/Dataset701_MultiTaskSegClass/gt_segmentations/quiz_0_253.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8676001404877282,
+                    "FN": 20769,
+                    "FP": 33138,
+                    "IoU": 0.7661605864746454,
+                    "TN": 3048634,
+                    "TP": 176623,
+                    "n_pred": 209761,
+                    "n_ref": 197392
+                },
+                "2": {
+                    "Dice": 0.5818254192028925,
+                    "FN": 19928,
+                    "FP": 5285,
+                    "IoU": 0.41026360723224103,
+                    "TN": 3236411,
+                    "TP": 17540,
+                    "n_pred": 22825,
+                    "n_ref": 37468
+                }
+            },
+            "prediction_file": "/local/data0/home/naumanb/Codes/13b_nnUnet/dataset/nnUNet_results/Dataset701_MultiTaskSegClass/nnUNetTrainerChallenge__nnUNetResEncUNetMPlans__3d_fullres/fold_0/validation/quiz_0_254.nii.gz",
+            "reference_file": "/local/data0/home/naumanb/Codes/13b_nnUnet/dataset/nnUNet_preprocessed/Dataset701_MultiTaskSegClass/gt_segmentations/quiz_0_254.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8322386939388253,
+                    "FN": 284,
+                    "FP": 6868,
+                    "IoU": 0.7126787722963202,
+                    "TN": 700508,
+                    "TP": 17740,
+                    "n_pred": 24608,
+                    "n_ref": 18024
+                },
+                "2": {
+                    "Dice": 0.0,
+                    "FN": 2269,
+                    "FP": 0,
+                    "IoU": 0.0,
+                    "TN": 723131,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 2269
+                }
+            },
+            "prediction_file": "/local/data0/home/naumanb/Codes/13b_nnUnet/dataset/nnUNet_results/Dataset701_MultiTaskSegClass/nnUNetTrainerChallenge__nnUNetResEncUNetMPlans__3d_fullres/fold_0/validation/quiz_1_090.nii.gz",
+            "reference_file": "/local/data0/home/naumanb/Codes/13b_nnUnet/dataset/nnUNet_preprocessed/Dataset701_MultiTaskSegClass/gt_segmentations/quiz_1_090.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8234874329875375,
+                    "FN": 7175,
+                    "FP": 13107,
+                    "IoU": 0.6999393428313583,
+                    "TN": 1150382,
+                    "TP": 47311,
+                    "n_pred": 60418,
+                    "n_ref": 54486
+                },
+                "2": {
+                    "Dice": 0.8087900116110721,
+                    "FN": 13290,
+                    "FP": 49,
+                    "IoU": 0.678965102286402,
+                    "TN": 1176425,
+                    "TP": 28211,
+                    "n_pred": 28260,
+                    "n_ref": 41501
+                }
+            },
+            "prediction_file": "/local/data0/home/naumanb/Codes/13b_nnUnet/dataset/nnUNet_results/Dataset701_MultiTaskSegClass/nnUNetTrainerChallenge__nnUNetResEncUNetMPlans__3d_fullres/fold_0/validation/quiz_1_093.nii.gz",
+            "reference_file": "/local/data0/home/naumanb/Codes/13b_nnUnet/dataset/nnUNet_preprocessed/Dataset701_MultiTaskSegClass/gt_segmentations/quiz_1_093.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9515560119658882,
+                    "FN": 3970,
+                    "FP": 5795,
+                    "IoU": 0.9075887914147006,
+                    "TN": 2504601,
+                    "TP": 95904,
+                    "n_pred": 101699,
+                    "n_ref": 99874
+                },
+                "2": {
+                    "Dice": 0.6708832166252541,
+                    "FN": 394,
+                    "FP": 1063,
+                    "IoU": 0.5047586675730795,
+                    "TN": 2607328,
+                    "TP": 1485,
+                    "n_pred": 2548,
+                    "n_ref": 1879
+                }
+            },
+            "prediction_file": "/local/data0/home/naumanb/Codes/13b_nnUnet/dataset/nnUNet_results/Dataset701_MultiTaskSegClass/nnUNetTrainerChallenge__nnUNetResEncUNetMPlans__3d_fullres/fold_0/validation/quiz_1_094.nii.gz",
+            "reference_file": "/local/data0/home/naumanb/Codes/13b_nnUnet/dataset/nnUNet_preprocessed/Dataset701_MultiTaskSegClass/gt_segmentations/quiz_1_094.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9068826139004296,
+                    "FN": 9174,
+                    "FP": 23885,
+                    "IoU": 0.8296296678038775,
+                    "TN": 3023458,
+                    "TP": 160983,
+                    "n_pred": 184868,
+                    "n_ref": 170157
+                },
+                "2": {
+                    "Dice": 0.8581097413584723,
+                    "FN": 1261,
+                    "FP": 500,
+                    "IoU": 0.7514817950889077,
+                    "TN": 3210414,
+                    "TP": 5325,
+                    "n_pred": 5825,
+                    "n_ref": 6586
+                }
+            },
+            "prediction_file": "/local/data0/home/naumanb/Codes/13b_nnUnet/dataset/nnUNet_results/Dataset701_MultiTaskSegClass/nnUNetTrainerChallenge__nnUNetResEncUNetMPlans__3d_fullres/fold_0/validation/quiz_1_154.nii.gz",
+            "reference_file": "/local/data0/home/naumanb/Codes/13b_nnUnet/dataset/nnUNet_preprocessed/Dataset701_MultiTaskSegClass/gt_segmentations/quiz_1_154.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9242857142857143,
+                    "FN": 1611,
+                    "FP": 2099,
+                    "IoU": 0.8592297476759628,
+                    "TN": 542711,
+                    "TP": 22645,
+                    "n_pred": 24744,
+                    "n_ref": 24256
+                },
+                "2": {
+                    "Dice": 0.835335141418055,
+                    "FN": 2871,
+                    "FP": 104,
+                    "IoU": 0.7172322022621423,
+                    "TN": 558545,
+                    "TP": 7546,
+                    "n_pred": 7650,
+                    "n_ref": 10417
+                }
+            },
+            "prediction_file": "/local/data0/home/naumanb/Codes/13b_nnUnet/dataset/nnUNet_results/Dataset701_MultiTaskSegClass/nnUNetTrainerChallenge__nnUNetResEncUNetMPlans__3d_fullres/fold_0/validation/quiz_1_158.nii.gz",
+            "reference_file": "/local/data0/home/naumanb/Codes/13b_nnUnet/dataset/nnUNet_preprocessed/Dataset701_MultiTaskSegClass/gt_segmentations/quiz_1_158.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9033055917644306,
+                    "FN": 1182,
+                    "FP": 19069,
+                    "IoU": 0.8236620748506643,
+                    "TN": 1129924,
+                    "TP": 94591,
+                    "n_pred": 113660,
+                    "n_ref": 95773
+                },
+                "2": {
+                    "Dice": 0.9486343471056711,
+                    "FN": 1402,
+                    "FP": 520,
+                    "IoU": 0.9022877478393493,
+                    "TN": 1225096,
+                    "TP": 17748,
+                    "n_pred": 18268,
+                    "n_ref": 19150
+                }
+            },
+            "prediction_file": "/local/data0/home/naumanb/Codes/13b_nnUnet/dataset/nnUNet_results/Dataset701_MultiTaskSegClass/nnUNetTrainerChallenge__nnUNetResEncUNetMPlans__3d_fullres/fold_0/validation/quiz_1_164.nii.gz",
+            "reference_file": "/local/data0/home/naumanb/Codes/13b_nnUnet/dataset/nnUNet_preprocessed/Dataset701_MultiTaskSegClass/gt_segmentations/quiz_1_164.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.955550003713732,
+                    "FN": 3751,
+                    "FP": 2832,
+                    "IoU": 0.9148834382798257,
+                    "TN": 1145879,
+                    "TP": 70758,
+                    "n_pred": 73590,
+                    "n_ref": 74509
+                },
+                "2": {
+                    "Dice": 0.9336744866086263,
+                    "FN": 1496,
+                    "FP": 500,
+                    "IoU": 0.8755998753505765,
+                    "TN": 1207175,
+                    "TP": 14049,
+                    "n_pred": 14549,
+                    "n_ref": 15545
+                }
+            },
+            "prediction_file": "/local/data0/home/naumanb/Codes/13b_nnUnet/dataset/nnUNet_results/Dataset701_MultiTaskSegClass/nnUNetTrainerChallenge__nnUNetResEncUNetMPlans__3d_fullres/fold_0/validation/quiz_1_166.nii.gz",
+            "reference_file": "/local/data0/home/naumanb/Codes/13b_nnUnet/dataset/nnUNet_preprocessed/Dataset701_MultiTaskSegClass/gt_segmentations/quiz_1_166.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9325478021590348,
+                    "FN": 3356,
+                    "FP": 4292,
+                    "IoU": 0.8736201996166303,
+                    "TN": 1118508,
+                    "TP": 52868,
+                    "n_pred": 57160,
+                    "n_ref": 56224
+                },
+                "2": {
+                    "Dice": 0.8181219701957029,
+                    "FN": 6012,
+                    "FP": 66,
+                    "IoU": 0.6922219971642698,
+                    "TN": 1159276,
+                    "TP": 13670,
+                    "n_pred": 13736,
+                    "n_ref": 19682
+                }
+            },
+            "prediction_file": "/local/data0/home/naumanb/Codes/13b_nnUnet/dataset/nnUNet_results/Dataset701_MultiTaskSegClass/nnUNetTrainerChallenge__nnUNetResEncUNetMPlans__3d_fullres/fold_0/validation/quiz_1_211.nii.gz",
+            "reference_file": "/local/data0/home/naumanb/Codes/13b_nnUnet/dataset/nnUNet_preprocessed/Dataset701_MultiTaskSegClass/gt_segmentations/quiz_1_211.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8828661091007373,
+                    "FN": 1676,
+                    "FP": 6125,
+                    "IoU": 0.7902956989247312,
+                    "TN": 903600,
+                    "TP": 29399,
+                    "n_pred": 35524,
+                    "n_ref": 31075
+                },
+                "2": {
+                    "Dice": 0.86657290201594,
+                    "FN": 2453,
+                    "FP": 393,
+                    "IoU": 0.764559894109861,
+                    "TN": 928712,
+                    "TP": 9242,
+                    "n_pred": 9635,
+                    "n_ref": 11695
+                }
+            },
+            "prediction_file": "/local/data0/home/naumanb/Codes/13b_nnUnet/dataset/nnUNet_results/Dataset701_MultiTaskSegClass/nnUNetTrainerChallenge__nnUNetResEncUNetMPlans__3d_fullres/fold_0/validation/quiz_1_213.nii.gz",
+            "reference_file": "/local/data0/home/naumanb/Codes/13b_nnUnet/dataset/nnUNet_preprocessed/Dataset701_MultiTaskSegClass/gt_segmentations/quiz_1_213.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9675016453020076,
+                    "FN": 6624,
+                    "FP": 4536,
+                    "IoU": 0.9370490915552147,
+                    "TN": 1867450,
+                    "TP": 166121,
+                    "n_pred": 170657,
+                    "n_ref": 172745
+                },
+                "2": {
+                    "Dice": 0.7778566359119943,
+                    "FN": 30,
+                    "FP": 1222,
+                    "IoU": 0.6364692218350755,
+                    "TN": 2041287,
+                    "TP": 2192,
+                    "n_pred": 3414,
+                    "n_ref": 2222
+                }
+            },
+            "prediction_file": "/local/data0/home/naumanb/Codes/13b_nnUnet/dataset/nnUNet_results/Dataset701_MultiTaskSegClass/nnUNetTrainerChallenge__nnUNetResEncUNetMPlans__3d_fullres/fold_0/validation/quiz_1_221.nii.gz",
+            "reference_file": "/local/data0/home/naumanb/Codes/13b_nnUnet/dataset/nnUNet_preprocessed/Dataset701_MultiTaskSegClass/gt_segmentations/quiz_1_221.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9567910476240801,
+                    "FN": 4614,
+                    "FP": 10105,
+                    "IoU": 0.917161461704271,
+                    "TN": 4294253,
+                    "TP": 162964,
+                    "n_pred": 173069,
+                    "n_ref": 167578
+                },
+                "2": {
+                    "Dice": 0.0,
+                    "FN": 1724,
+                    "FP": 0,
+                    "IoU": 0.0,
+                    "TN": 4470212,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 1724
+                }
+            },
+            "prediction_file": "/local/data0/home/naumanb/Codes/13b_nnUnet/dataset/nnUNet_results/Dataset701_MultiTaskSegClass/nnUNetTrainerChallenge__nnUNetResEncUNetMPlans__3d_fullres/fold_0/validation/quiz_1_227.nii.gz",
+            "reference_file": "/local/data0/home/naumanb/Codes/13b_nnUnet/dataset/nnUNet_preprocessed/Dataset701_MultiTaskSegClass/gt_segmentations/quiz_1_227.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9389415438558045,
+                    "FN": 1824,
+                    "FP": 2634,
+                    "IoU": 0.8849102878533626,
+                    "TN": 769105,
+                    "TP": 34277,
+                    "n_pred": 36911,
+                    "n_ref": 36101
+                },
+                "2": {
+                    "Dice": 0.7082782332716213,
+                    "FN": 1741,
+                    "FP": 465,
+                    "IoU": 0.5483210483210483,
+                    "TN": 802956,
+                    "TP": 2678,
+                    "n_pred": 3143,
+                    "n_ref": 4419
+                }
+            },
+            "prediction_file": "/local/data0/home/naumanb/Codes/13b_nnUnet/dataset/nnUNet_results/Dataset701_MultiTaskSegClass/nnUNetTrainerChallenge__nnUNetResEncUNetMPlans__3d_fullres/fold_0/validation/quiz_1_231.nii.gz",
+            "reference_file": "/local/data0/home/naumanb/Codes/13b_nnUnet/dataset/nnUNet_preprocessed/Dataset701_MultiTaskSegClass/gt_segmentations/quiz_1_231.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9360521142504722,
+                    "FN": 2145,
+                    "FP": 6150,
+                    "IoU": 0.8797913194696036,
+                    "TN": 1158091,
+                    "TP": 60710,
+                    "n_pred": 66860,
+                    "n_ref": 62855
+                },
+                "2": {
+                    "Dice": 0.0,
+                    "FN": 4258,
+                    "FP": 153,
+                    "IoU": 0.0,
+                    "TN": 1222685,
+                    "TP": 0,
+                    "n_pred": 153,
+                    "n_ref": 4258
+                }
+            },
+            "prediction_file": "/local/data0/home/naumanb/Codes/13b_nnUnet/dataset/nnUNet_results/Dataset701_MultiTaskSegClass/nnUNetTrainerChallenge__nnUNetResEncUNetMPlans__3d_fullres/fold_0/validation/quiz_1_242.nii.gz",
+            "reference_file": "/local/data0/home/naumanb/Codes/13b_nnUnet/dataset/nnUNet_preprocessed/Dataset701_MultiTaskSegClass/gt_segmentations/quiz_1_242.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9171755038671627,
+                    "FN": 1576,
+                    "FP": 7173,
+                    "IoU": 0.8470213844835726,
+                    "TN": 1886737,
+                    "TP": 48442,
+                    "n_pred": 55615,
+                    "n_ref": 50018
+                },
+                "2": {
+                    "Dice": 0.7429778990930703,
+                    "FN": 2700,
+                    "FP": 219,
+                    "IoU": 0.5910619221070328,
+                    "TN": 1936790,
+                    "TP": 4219,
+                    "n_pred": 4438,
+                    "n_ref": 6919
+                }
+            },
+            "prediction_file": "/local/data0/home/naumanb/Codes/13b_nnUnet/dataset/nnUNet_results/Dataset701_MultiTaskSegClass/nnUNetTrainerChallenge__nnUNetResEncUNetMPlans__3d_fullres/fold_0/validation/quiz_1_331.nii.gz",
+            "reference_file": "/local/data0/home/naumanb/Codes/13b_nnUnet/dataset/nnUNet_preprocessed/Dataset701_MultiTaskSegClass/gt_segmentations/quiz_1_331.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9257781324820431,
+                    "FN": 7522,
+                    "FP": 6242,
+                    "IoU": 0.861812778603269,
+                    "TN": 1598246,
+                    "TP": 85840,
+                    "n_pred": 92082,
+                    "n_ref": 93362
+                },
+                "2": {
+                    "Dice": 0.8085689802913454,
+                    "FN": 10732,
+                    "FP": 438,
+                    "IoU": 0.6786536248561565,
+                    "TN": 1663090,
+                    "TP": 23590,
+                    "n_pred": 24028,
+                    "n_ref": 34322
+                }
+            },
+            "prediction_file": "/local/data0/home/naumanb/Codes/13b_nnUnet/dataset/nnUNet_results/Dataset701_MultiTaskSegClass/nnUNetTrainerChallenge__nnUNetResEncUNetMPlans__3d_fullres/fold_0/validation/quiz_1_335.nii.gz",
+            "reference_file": "/local/data0/home/naumanb/Codes/13b_nnUnet/dataset/nnUNet_preprocessed/Dataset701_MultiTaskSegClass/gt_segmentations/quiz_1_335.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9582293019075202,
+                    "FN": 1316,
+                    "FP": 2030,
+                    "IoU": 0.9198082684242062,
+                    "TN": 889331,
+                    "TP": 38379,
+                    "n_pred": 40409,
+                    "n_ref": 39695
+                },
+                "2": {
+                    "Dice": 0.9244075829383887,
+                    "FN": 411,
+                    "FP": 227,
+                    "IoU": 0.8594404053756334,
+                    "TN": 926517,
+                    "TP": 3901,
+                    "n_pred": 4128,
+                    "n_ref": 4312
+                }
+            },
+            "prediction_file": "/local/data0/home/naumanb/Codes/13b_nnUnet/dataset/nnUNet_results/Dataset701_MultiTaskSegClass/nnUNetTrainerChallenge__nnUNetResEncUNetMPlans__3d_fullres/fold_0/validation/quiz_2_074.nii.gz",
+            "reference_file": "/local/data0/home/naumanb/Codes/13b_nnUnet/dataset/nnUNet_preprocessed/Dataset701_MultiTaskSegClass/gt_segmentations/quiz_2_074.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9591860751232977,
+                    "FN": 1985,
+                    "FP": 1830,
+                    "IoU": 0.9215730614258696,
+                    "TN": 812056,
+                    "TP": 44829,
+                    "n_pred": 46659,
+                    "n_ref": 46814
+                },
+                "2": {
+                    "Dice": 0.5560669456066946,
+                    "FN": 1489,
+                    "FP": 633,
+                    "IoU": 0.38510576644450883,
+                    "TN": 857249,
+                    "TP": 1329,
+                    "n_pred": 1962,
+                    "n_ref": 2818
+                }
+            },
+            "prediction_file": "/local/data0/home/naumanb/Codes/13b_nnUnet/dataset/nnUNet_results/Dataset701_MultiTaskSegClass/nnUNetTrainerChallenge__nnUNetResEncUNetMPlans__3d_fullres/fold_0/validation/quiz_2_080.nii.gz",
+            "reference_file": "/local/data0/home/naumanb/Codes/13b_nnUnet/dataset/nnUNet_preprocessed/Dataset701_MultiTaskSegClass/gt_segmentations/quiz_2_080.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.923541705464854,
+                    "FN": 4943,
+                    "FP": 6142,
+                    "IoU": 0.857944715697205,
+                    "TN": 2283667,
+                    "TP": 66948,
+                    "n_pred": 73090,
+                    "n_ref": 71891
+                },
+                "2": {
+                    "Dice": 0.7855923995757045,
+                    "FN": 3000,
+                    "FP": 1649,
+                    "IoU": 0.6468935135956251,
+                    "TN": 2348534,
+                    "TP": 8517,
+                    "n_pred": 10166,
+                    "n_ref": 11517
+                }
+            },
+            "prediction_file": "/local/data0/home/naumanb/Codes/13b_nnUnet/dataset/nnUNet_results/Dataset701_MultiTaskSegClass/nnUNetTrainerChallenge__nnUNetResEncUNetMPlans__3d_fullres/fold_0/validation/quiz_2_084.nii.gz",
+            "reference_file": "/local/data0/home/naumanb/Codes/13b_nnUnet/dataset/nnUNet_preprocessed/Dataset701_MultiTaskSegClass/gt_segmentations/quiz_2_084.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9521780604133545,
+                    "FN": 1496,
+                    "FP": 1512,
+                    "IoU": 0.9087212477999635,
+                    "TN": 731446,
+                    "TP": 29946,
+                    "n_pred": 31458,
+                    "n_ref": 31442
+                },
+                "2": {
+                    "Dice": 0.8696244571233926,
+                    "FN": 802,
+                    "FP": 729,
+                    "IoU": 0.7693234895284013,
+                    "TN": 757763,
+                    "TP": 5106,
+                    "n_pred": 5835,
+                    "n_ref": 5908
+                }
+            },
+            "prediction_file": "/local/data0/home/naumanb/Codes/13b_nnUnet/dataset/nnUNet_results/Dataset701_MultiTaskSegClass/nnUNetTrainerChallenge__nnUNetResEncUNetMPlans__3d_fullres/fold_0/validation/quiz_2_085.nii.gz",
+            "reference_file": "/local/data0/home/naumanb/Codes/13b_nnUnet/dataset/nnUNet_preprocessed/Dataset701_MultiTaskSegClass/gt_segmentations/quiz_2_085.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9260324790854374,
+                    "FN": 1559,
+                    "FP": 2349,
+                    "IoU": 0.862253709774065,
+                    "TN": 1190517,
+                    "TP": 24463,
+                    "n_pred": 26812,
+                    "n_ref": 26022
+                },
+                "2": {
+                    "Dice": 0.04151404151404151,
+                    "FN": 656,
+                    "FP": 129,
+                    "IoU": 0.02119700748129676,
+                    "TN": 1218086,
+                    "TP": 17,
+                    "n_pred": 146,
+                    "n_ref": 673
+                }
+            },
+            "prediction_file": "/local/data0/home/naumanb/Codes/13b_nnUnet/dataset/nnUNet_results/Dataset701_MultiTaskSegClass/nnUNetTrainerChallenge__nnUNetResEncUNetMPlans__3d_fullres/fold_0/validation/quiz_2_088.nii.gz",
+            "reference_file": "/local/data0/home/naumanb/Codes/13b_nnUnet/dataset/nnUNet_preprocessed/Dataset701_MultiTaskSegClass/gt_segmentations/quiz_2_088.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8985146379044684,
+                    "FN": 5543,
+                    "FP": 2690,
+                    "IoU": 0.8157299850041406,
+                    "TN": 1217021,
+                    "TP": 36446,
+                    "n_pred": 39136,
+                    "n_ref": 41989
+                },
+                "2": {
+                    "Dice": 0.8840072495469034,
+                    "FN": 3378,
+                    "FP": 334,
+                    "IoU": 0.7921263370106961,
+                    "TN": 1243843,
+                    "TP": 14145,
+                    "n_pred": 14479,
+                    "n_ref": 17523
+                }
+            },
+            "prediction_file": "/local/data0/home/naumanb/Codes/13b_nnUnet/dataset/nnUNet_results/Dataset701_MultiTaskSegClass/nnUNetTrainerChallenge__nnUNetResEncUNetMPlans__3d_fullres/fold_0/validation/quiz_2_089.nii.gz",
+            "reference_file": "/local/data0/home/naumanb/Codes/13b_nnUnet/dataset/nnUNet_preprocessed/Dataset701_MultiTaskSegClass/gt_segmentations/quiz_2_089.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9053526383081655,
+                    "FN": 3310,
+                    "FP": 2168,
+                    "IoU": 0.8270724161878906,
+                    "TN": 743322,
+                    "TP": 26200,
+                    "n_pred": 28368,
+                    "n_ref": 29510
+                },
+                "2": {
+                    "Dice": 0.8752016475030032,
+                    "FN": 2266,
+                    "FP": 5006,
+                    "IoU": 0.7780964877483141,
+                    "TN": 742229,
+                    "TP": 25499,
+                    "n_pred": 30505,
+                    "n_ref": 27765
+                }
+            },
+            "prediction_file": "/local/data0/home/naumanb/Codes/13b_nnUnet/dataset/nnUNet_results/Dataset701_MultiTaskSegClass/nnUNetTrainerChallenge__nnUNetResEncUNetMPlans__3d_fullres/fold_0/validation/quiz_2_098.nii.gz",
+            "reference_file": "/local/data0/home/naumanb/Codes/13b_nnUnet/dataset/nnUNet_preprocessed/Dataset701_MultiTaskSegClass/gt_segmentations/quiz_2_098.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.7909795630725863,
+                    "FN": 9503,
+                    "FP": 17191,
+                    "IoU": 0.6542317556539986,
+                    "TN": 1853850,
+                    "TP": 50508,
+                    "n_pred": 67699,
+                    "n_ref": 60011
+                },
+                "2": {
+                    "Dice": 0.0,
+                    "FN": 4248,
+                    "FP": 16900,
+                    "IoU": 0.0,
+                    "TN": 1909904,
+                    "TP": 0,
+                    "n_pred": 16900,
+                    "n_ref": 4248
+                }
+            },
+            "prediction_file": "/local/data0/home/naumanb/Codes/13b_nnUnet/dataset/nnUNet_results/Dataset701_MultiTaskSegClass/nnUNetTrainerChallenge__nnUNetResEncUNetMPlans__3d_fullres/fold_0/validation/quiz_2_191.nii.gz",
+            "reference_file": "/local/data0/home/naumanb/Codes/13b_nnUnet/dataset/nnUNet_preprocessed/Dataset701_MultiTaskSegClass/gt_segmentations/quiz_2_191.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9492678224157705,
+                    "FN": 6417,
+                    "FP": 8844,
+                    "IoU": 0.9034346169908503,
+                    "TN": 3059498,
+                    "TP": 142777,
+                    "n_pred": 151621,
+                    "n_ref": 149194
+                },
+                "2": {
+                    "Dice": 0.8801470885359841,
+                    "FN": 4759,
+                    "FP": 1173,
+                    "IoU": 0.7859488326778047,
+                    "TN": 3189823,
+                    "TP": 21781,
+                    "n_pred": 22954,
+                    "n_ref": 26540
+                }
+            },
+            "prediction_file": "/local/data0/home/naumanb/Codes/13b_nnUnet/dataset/nnUNet_results/Dataset701_MultiTaskSegClass/nnUNetTrainerChallenge__nnUNetResEncUNetMPlans__3d_fullres/fold_0/validation/quiz_2_241.nii.gz",
+            "reference_file": "/local/data0/home/naumanb/Codes/13b_nnUnet/dataset/nnUNet_preprocessed/Dataset701_MultiTaskSegClass/gt_segmentations/quiz_2_241.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.7690225324451286,
+                    "FN": 1771,
+                    "FP": 6932,
+                    "IoU": 0.6247251088784442,
+                    "TN": 507249,
+                    "TP": 14488,
+                    "n_pred": 21420,
+                    "n_ref": 16259
+                },
+                "2": {
+                    "Dice": 0.8810397716190578,
+                    "FN": 6400,
+                    "FP": 309,
+                    "IoU": 0.7873736253288118,
+                    "TN": 498887,
+                    "TP": 24844,
+                    "n_pred": 25153,
+                    "n_ref": 31244
+                }
+            },
+            "prediction_file": "/local/data0/home/naumanb/Codes/13b_nnUnet/dataset/nnUNet_results/Dataset701_MultiTaskSegClass/nnUNetTrainerChallenge__nnUNetResEncUNetMPlans__3d_fullres/fold_0/validation/quiz_2_364.nii.gz",
+            "reference_file": "/local/data0/home/naumanb/Codes/13b_nnUnet/dataset/nnUNet_preprocessed/Dataset701_MultiTaskSegClass/gt_segmentations/quiz_2_364.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.7902617753486049,
+                    "FN": 9685,
+                    "FP": 4168,
+                    "IoU": 0.6532502315336287,
+                    "TN": 1879749,
+                    "TP": 26098,
+                    "n_pred": 30266,
+                    "n_ref": 35783
+                },
+                "2": {
+                    "Dice": 0.8611513507946861,
+                    "FN": 12164,
+                    "FP": 28284,
+                    "IoU": 0.7561596103183645,
+                    "TN": 1753821,
+                    "TP": 125431,
+                    "n_pred": 153715,
+                    "n_ref": 137595
+                }
+            },
+            "prediction_file": "/local/data0/home/naumanb/Codes/13b_nnUnet/dataset/nnUNet_results/Dataset701_MultiTaskSegClass/nnUNetTrainerChallenge__nnUNetResEncUNetMPlans__3d_fullres/fold_0/validation/quiz_2_377.nii.gz",
+            "reference_file": "/local/data0/home/naumanb/Codes/13b_nnUnet/dataset/nnUNet_preprocessed/Dataset701_MultiTaskSegClass/gt_segmentations/quiz_2_377.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9665611904558282,
+                    "FN": 2341,
+                    "FP": 2351,
+                    "IoU": 0.9352863290301224,
+                    "TN": 1122426,
+                    "TP": 67812,
+                    "n_pred": 70163,
+                    "n_ref": 70153
+                },
+                "2": {
+                    "Dice": 0.9393749215513996,
+                    "FN": 702,
+                    "FP": 264,
+                    "IoU": 0.8856804733727811,
+                    "TN": 1186480,
+                    "TP": 7484,
+                    "n_pred": 7748,
+                    "n_ref": 8186
+                }
+            },
+            "prediction_file": "/local/data0/home/naumanb/Codes/13b_nnUnet/dataset/nnUNet_results/Dataset701_MultiTaskSegClass/nnUNetTrainerChallenge__nnUNetResEncUNetMPlans__3d_fullres/fold_0/validation/quiz_2_379.nii.gz",
+            "reference_file": "/local/data0/home/naumanb/Codes/13b_nnUnet/dataset/nnUNet_preprocessed/Dataset701_MultiTaskSegClass/gt_segmentations/quiz_2_379.nii.gz"
+        }
+    ]
+}

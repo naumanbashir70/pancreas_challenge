@@ -65,6 +65,7 @@ Combined (macro over whole and lesion)
 - HD95: **5.657 ± 12.135 mm**
 - NSD: **83.3 ± 25.2 %**
 
+![Pancreas example](imgs/g.png)
 
 
 ## Quick start

@@ -93,5 +93,16 @@ subprocess.check_call(shlex.split(cmd), env=os.environ.copy())
 
 
 ## Citation
-- Isensee et al. nnU-Net: a self configuring method for biomedical image segmentation. Nat Methods, 2021.
 
+- Isensee, F., Jaeger, P.F., Kohl, S.A.A. et al. nnU-Net: a self-configuring method for deep learningbased
+biomedical image segmentation. Nat Methods 18, 203–211 (2021).
+https://doi.org/10.1038/s41592-020-01008-z
+
+- Cao, K., Xia, Y., Yao, J. et al. Large-scale pancreatic cancer detection via non-contrast CT and deep
+learning. Nat Med 29, 3033–3043 (2023). https://doi.org/10.1038/s41591-023-02640-w
+
+- Maier-Hein, L., Reinke, A., Godau, P. et al. Metrics reloaded: recommendations for image analysis
+validation. Nat Methods 21, 195–212 (2024). https://doi.org/10.1038/s41592-023-02151-z
+
+- Hu, Yujian, et al. AI-based diagnosis of acute aortic syndrome from noncontrast CT. Nat Med (2025).
+https://doi.org/10.1038/s41591-025-03916-z
